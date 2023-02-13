@@ -1,0 +1,1 @@
+Olá, este é o projeto inicial para utilizar o git
